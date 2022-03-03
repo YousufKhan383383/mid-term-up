@@ -1,0 +1,31 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-inner{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.animation{
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+   
+    border: none;
+    
+    padding: 50px 350px;
+   
+
+}
+#btn{
+    background-color: black;
+    color: rgb(248, 250, 249);
+    border-radius: 10px 10px;
+}
+
+
+.page-footer{
+    background-color: rgba(99, 99, 99, 0.411);
+    
+}
+
