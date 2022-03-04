@@ -1,0 +1,11 @@
+
+.d-flex{
+    align-items: right;
+    align-self: flex-end;
+}
+
+
+.task3{
+    display: flex;
+    justify-content: center;
+}
